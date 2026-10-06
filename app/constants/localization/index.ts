@@ -1,0 +1,1 @@
+export { BROADCAST_CHANNEL_NAME, EVENT_TYPE_CHANGE_LOCALE } from './locale-sync'
